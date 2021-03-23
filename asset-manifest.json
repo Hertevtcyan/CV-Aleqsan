@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/CV-Aleqsan/static/css/main.4e3c2a2e.chunk.css",
+    "main.js": "/CV-Aleqsan/static/js/main.8f5fb622.chunk.js",
+    "main.js.map": "/CV-Aleqsan/static/js/main.8f5fb622.chunk.js.map",
+    "runtime-main.js": "/CV-Aleqsan/static/js/runtime-main.8ae4d6e2.js",
+    "runtime-main.js.map": "/CV-Aleqsan/static/js/runtime-main.8ae4d6e2.js.map",
+    "static/css/2.fabbef47.chunk.css": "/CV-Aleqsan/static/css/2.fabbef47.chunk.css",
+    "static/js/2.9d7b71ff.chunk.js": "/CV-Aleqsan/static/js/2.9d7b71ff.chunk.js",
+    "static/js/2.9d7b71ff.chunk.js.map": "/CV-Aleqsan/static/js/2.9d7b71ff.chunk.js.map",
+    "static/js/3.d847c00f.chunk.js": "/CV-Aleqsan/static/js/3.d847c00f.chunk.js",
+    "static/js/3.d847c00f.chunk.js.map": "/CV-Aleqsan/static/js/3.d847c00f.chunk.js.map",
+    "index.html": "/CV-Aleqsan/index.html",
+    "static/css/2.fabbef47.chunk.css.map": "/CV-Aleqsan/static/css/2.fabbef47.chunk.css.map",
+    "static/css/main.4e3c2a2e.chunk.css.map": "/CV-Aleqsan/static/css/main.4e3c2a2e.chunk.css.map",
+    "static/js/2.9d7b71ff.chunk.js.LICENSE.txt": "/CV-Aleqsan/static/js/2.9d7b71ff.chunk.js.LICENSE.txt",
+    "static/media/alik.d74f5dff.png": "/CV-Aleqsan/static/media/alik.d74f5dff.png",
+    "static/media/call.9ecec675.png": "/CV-Aleqsan/static/media/call.9ecec675.png",
+    "static/media/css-3.463e319b.png": "/CV-Aleqsan/static/media/css-3.463e319b.png",
+    "static/media/envelope.ecb882fe.png": "/CV-Aleqsan/static/media/envelope.ecb882fe.png",
+    "static/media/face.530af99c.png": "/CV-Aleqsan/static/media/face.530af99c.png",
+    "static/media/figma.b6c1c019.jpeg": "/CV-Aleqsan/static/media/figma.b6c1c019.jpeg",
+    "static/media/github.a855c397.png": "/CV-Aleqsan/static/media/github.a855c397.png",
+    "static/media/google-drive.63107e71.png": "/CV-Aleqsan/static/media/google-drive.63107e71.png",
+    "static/media/instagram.250c5ef2.png": "/CV-Aleqsan/static/media/instagram.250c5ef2.png",
+    "static/media/js.70fde9fe.png": "/CV-Aleqsan/static/media/js.70fde9fe.png",
+    "static/media/pin.64af410c.png": "/CV-Aleqsan/static/media/pin.64af410c.png",
+    "static/media/react.86c8d9eb.png": "/CV-Aleqsan/static/media/react.86c8d9eb.png",
+    "static/media/one.css": "/CV-Aleqsan/static/media/wave.ca954455.png",
+    "static/media/wordpress.11ed0915.png": "/CV-Aleqsan/static/media/wordpress.11ed0915.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ae4d6e2.js",
+    "static/css/2.fabbef47.chunk.css",
+    "static/js/2.9d7b71ff.chunk.js",
+    "static/css/main.4e3c2a2e.chunk.css",
+    "static/js/main.8f5fb622.chunk.js"
+  ]
+}
