@@ -1,0 +1,69 @@
+.face_contact{
+    height: 187px;
+    margin-left: 5px;
+    margin-top: 43px;
+    padding: 0px 29px 168px 23px;
+}
+.face_contact div{
+    width: 250px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.face_contact div span{
+    margin-top: 21px;
+    margin-left: 20px;
+}
+
+.face_contact img{
+    width: 20px;
+    height: 20px;
+    margin-left: 25%;
+    cursor: pointer;
+    transition: 1s;
+    margin-top: 25px;
+    float: left;
+}
+
+.face_contact img:hover{
+    transform: rotate(360deg);
+    transition: 1s;
+}
+
+
+.body_contact{
+    margin-top: 40px;
+}
+.body_contact div{
+    display: flex;
+    margin-left: -66px;
+}
+
+.body_contact div span{
+    margin-top: 21px;
+    margin-left: 20px;
+}
+
+.body_contact img{
+    width: 20px;
+    height: 20px;
+    margin-left: 25%;
+    cursor: pointer;
+    transition: 1s;
+    margin-top: 25px;
+    float: left;
+}
+
+.body_contact img:hover{
+    transform: rotate(360deg);
+    transition: 1s;
+}
+
+.face_a{
+    text-decoration: none;
+    color: white ;
+}
+
+.face_a:hover{
+    color: black;
+}
