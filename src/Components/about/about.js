@@ -13,11 +13,7 @@ const About =()=>{
                   <div class="cube"></div>
                 </div>
               </div>
-              <div className = {'d1'}>
               
-
-
-              </div>
         </div>
     )
 }
